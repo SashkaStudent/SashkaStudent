@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aleksandr!</h1>
+<h3 align="center">Full-stack developer</h3>
 
 <!--
 **SashkaStudent/SashkaStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
