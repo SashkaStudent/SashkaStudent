@@ -6,6 +6,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> &nbsp;
 <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /> </a> &nbsp;
 <a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
+<a href="https://redux.js.org/"> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
+  
 </p>
 
 <h3 align="left">Back-end languages and Tools:</h3>
