@@ -13,7 +13,7 @@
 <h3 align="left">Back-end languages and Tools:</h3>
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /> </a> &nbsp;
-<a href="https://nestjs.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50" /> </a> &nbsp;
+<a href="https://nestjs.com/"> <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="50" height="50" /> </a> &nbsp;
 <a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" /> </a> &nbsp;
 </p>
 
